@@ -15,9 +15,10 @@
 - 💻 Software Engineer Intern @ **Cloudanix (YC S21)**
 - 🌩️ Working on **Cloud Security, Graph Systems & Compliance Engineering**
 - 🧠 Interested in **AI Agents, Cloud, Distributed Systems & Full Stack Development**
+- 🌏 Top 23 South Asia — La Trobe International Challenge
 - 🏆 Smart India Hackathon 2024 Finalist
 - 🥇 Winner — PICT InC 2025
-- 🌏 Top 23 South Asia — La Trobe International Challenge
+
 
 ---
 
