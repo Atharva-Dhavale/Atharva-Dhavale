@@ -111,6 +111,18 @@
 
 ---
 
+## 🌐 TraceHost — Distributed Host Tracing & Monitoring Platform
+
+- Real-time distributed system monitoring and trace visualization
+- End-to-end request tracing across microservices
+- Performance analysis and latency optimization tools
+- Graph-based service dependency mapping
+
+### Tech Used:
+`Node.js` `React` `GraphQL` `Prometheus` `Jaeger` `Docker` `Kubernetes`
+
+---
+
 # 🏆 Achievements
 
 - 🥇 Winner — **PICT InC 2025**
